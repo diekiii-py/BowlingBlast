@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000001876501134209023099
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Source/Materials/MI_ReceptionC.mat
+  uploadId: 787564

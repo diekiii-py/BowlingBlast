@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000017437068985413673031
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_AngleElementOrange.prefab
+  uploadId: 787564

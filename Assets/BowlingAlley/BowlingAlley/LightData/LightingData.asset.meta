@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c5d52f324de2fd4dae2796ff64d3ff4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/LightData/LightingData.asset
+  uploadId: 787564

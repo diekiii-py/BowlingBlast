@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000009721889462966352506
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_ShelfBottles_B.prefab
+  uploadId: 787564

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000000672735333268299657
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_WallPlanks.prefab
+  uploadId: 787564

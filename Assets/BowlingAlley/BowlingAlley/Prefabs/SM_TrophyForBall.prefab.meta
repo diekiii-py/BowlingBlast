@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000010725338954588048958
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_TrophyForBall.prefab
+  uploadId: 787564

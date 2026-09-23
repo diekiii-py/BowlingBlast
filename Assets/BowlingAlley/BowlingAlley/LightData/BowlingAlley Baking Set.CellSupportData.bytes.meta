@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ddacda6fee95f4469c393839e555236
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/LightData/BowlingAlley Baking Set.CellSupportData.bytes
+  uploadId: 787564

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000003365505932771769488
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_RoadLongIslandFlat.prefab
+  uploadId: 787564

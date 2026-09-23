@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000004525698834251129105
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_BowlingTV1.prefab
+  uploadId: 787564

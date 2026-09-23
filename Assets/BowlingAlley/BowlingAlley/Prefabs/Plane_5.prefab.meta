@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000014169449220440236435
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/Plane_5.prefab
+  uploadId: 787564

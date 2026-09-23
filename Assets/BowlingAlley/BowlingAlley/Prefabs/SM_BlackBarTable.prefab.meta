@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000005373234414397478334
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_BlackBarTable.prefab
+  uploadId: 787564

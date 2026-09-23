@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000015377999147745016048
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332710
+  packageName: Bowling Alley (URP)
+  packageVersion: 1.0
+  assetPath: Assets/BowlingAlley/Prefabs/SM_WineBottle3.prefab
+  uploadId: 787564
